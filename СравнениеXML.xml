@@ -19,7 +19,7 @@
 					<v8:content>Сравнение XML</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>v.0.1</Comment>
+			<Comment>v.0.3</Comment>
 			<DefaultForm>ExternalDataProcessor.СравнениеXML.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
